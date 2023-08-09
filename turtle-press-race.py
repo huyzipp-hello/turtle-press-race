@@ -1,3 +1,4 @@
+# don't run in linux and macos because i haven't tested and there might be a lot of bugs
 import turtle
 import time
 
